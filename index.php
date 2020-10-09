@@ -6,7 +6,7 @@
 <div class="banner-bottom">
 	<div class="banner-bottom-left">
 		<h2>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;&nbsp;</h2>
-	</div>
+	</div> 
 	<div class="banner-bottom-right">
 		<div  class="callbacks_container">
 					<ul class="rslides" id="slider4">
