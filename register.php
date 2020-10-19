@@ -75,7 +75,7 @@ if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "patient")) {
                     <li class="women">
                        Registration
                     </li>
-                </ul>
+                </ul> 
                 <ul class="previous">
                 	<li><a href="index.php">Back to Previous Page</a></li>
                 </ul>
@@ -85,7 +85,7 @@ if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "patient")) {
 			 echo $_GET['msg']; 
 			}
 			?> </center>
-		<h2>Registration</h2>
+		<h2> Registration </h2>
         <img src="images/s1.jpg">
 		<div class="registration-grids">
 			<div class="reg-form">
