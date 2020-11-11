@@ -29,7 +29,7 @@
 					
 					 <form name="search" action="proc_search.php" method="get">
 <ul>
-		      <li class="">RUN A TEST FOR DISEASES&nbsp;(<i>E.g Maleria  etc.</i>):</li>
+		      <li class=""> RUN A TEST FOR DISEASES &nbsp;(<i>E.g Maleria  etc.</i>):</li>
 							 <li><input type="text" value="" name="search" required></li>
 						 </ul>						
 						 <input type="submit" name="search_button" id="search_button" value="Search">
