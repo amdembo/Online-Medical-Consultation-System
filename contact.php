@@ -39,7 +39,7 @@
 					<textarea placeholder="Message" required></textarea>
 				</div>
 				<div class="clearfix"></div>
-				<input type="submit" value="SUBMIT">
+				<input type="submit" value="SUBMIT" >
 			</form>
 		
 
