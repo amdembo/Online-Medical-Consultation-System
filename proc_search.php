@@ -44,7 +44,6 @@ $totalRows_search = mysql_num_rows($search);
   	header("location: Index.php");
   }*/
 
-
 $search=$_GET['search'];
 //we perform filtering
 $search=strtoupper($search);
