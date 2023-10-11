@@ -21,8 +21,8 @@
 				<img src="images/cards.jpg" alt="" />
 		  </div>
 		  <div class="copyright text-center">
-				<p>© 2016 ATBU Teaching Hospital Bauchi. All Rights Reserved </p>
-				<p> POWERD BY <a href="contributors.php"> Muhd Dembo & co.</a>
+				<p>© 2016 ATBUTH Bauchi. All Rights Reserved </p>
+				<p> POWERD BY <a href="contributors.php"> Muhd Dembo & Co.</a>
 		  </div>
 		</div>
 		</div>
