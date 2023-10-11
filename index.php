@@ -61,7 +61,7 @@
 		<marquee behavior="scroll"> <a href="">ABUBAKAR TAFAWA BALEWA UNIVERSITY TEACHING HOSPITAL BAUCHI</a></marquee>
 	</div>
 	</div>
-		</div>
+		</div> 
 		<!-- content-section-starts-here -->
 		<div class="container">
 			<div class="main-content">
