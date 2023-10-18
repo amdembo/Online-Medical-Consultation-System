@@ -4,7 +4,7 @@
 <body>
 <center>
 <h1>This project is carried out by:</h1><br>
-<h2>Adamu Muhammad Dembo<br>
+<h2>ADAMU, Muhammad Dembo<br>
 Iliya Godiya<br>
 Musa Abdulhasib Abubakar<br>
 Alkasim Musa Abbas<br>
