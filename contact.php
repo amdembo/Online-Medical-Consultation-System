@@ -11,7 +11,7 @@
 	<div class="container">
 	<div class="dreamcrub">
 			   	 <ul class="breadcrumbs">
-                    <li class="home">
+                    <li class="home"> 
                        <a href="index.php" title="Go to Home Page">Home</a>&nbsp;
                        <span>&gt;</span>
                     </li>
