@@ -42,7 +42,7 @@ $totalRows_search = mysql_num_rows($search);
 /*if (!isset($_SESSION['MM_Username']))
   {
   	header("location: Index.php");
-  }*/
+  }*/ 
 
 $search=$_GET['search'];
 //we perform filtering
